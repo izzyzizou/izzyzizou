@@ -4,4 +4,4 @@
 
 Full-Stack Developer specializing in modern JavaScript/TypeScript applications and system design.
 
-[![GitHub stats](./profile-summary-card-output/github/3-stats.svg)](https://izzata.me)
+![](https://raw.githubusercontent.com/izzyzizou/izzyzizou/main/profile-summary-card-output/github/0-profile-details.svg)
